@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+ul>li{
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+div>button{
+    margin-left:10px;
+}
+.btn{
+    margin-left: 10px;
+}
+.listitem{
+    list-style-type:none;
+    font-style:italic;
+    font-weight: bolder;
+}
